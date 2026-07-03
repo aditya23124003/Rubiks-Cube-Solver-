@@ -1,15 +1,23 @@
+# Compiled binaries and build artifacts
 *.exe
-*.txt
-.vscode/
-.vs/
-plan/
-out/
 build/
+out/
+plan/
+
+# Debug files
 *.pdb
 *.ilk
+
+# Database files (local only)
 *.bin
+
+# Local notes, design documents, and helper scripts
+*.txt
 *.py
-Interview_Design_Doc.md
-concept_explanations.md
 *Design_Doc*
 *design_doc*
+concept_explanations.md
+
+# IDE configurations
+.vscode/
+.vs/
