@@ -8,3 +8,6 @@ build/
 *.pdb
 *.ilk
 *.bin
+*.py
+Interview_Design_Doc.md
+concept_explanations.md
