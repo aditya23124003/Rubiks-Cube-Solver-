@@ -1,0 +1,10 @@
+*.exe
+*.txt
+.vscode/
+.vs/
+plan/
+out/
+build/
+*.pdb
+*.ilk
+*.bin
